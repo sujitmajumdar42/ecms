@@ -7,9 +7,9 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome</title>
+		<title>ECM</title>
 	</head> 
 	<body>
-		hello jsp
+		Easy Content manager
 	</body>
 </html>
