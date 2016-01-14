@@ -1,0 +1,8 @@
+*.project
+*.prefs
+EasyContentManager/jar/EasyContentManager-Integration/.classpath
+*.jsdtscope
+EasyContentManager/war/EasyContentManagerWeb/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.container
+EasyContentManager/war/EasyContentManagerWeb/.settings/org.eclipse.wst.jsdt.ui.superType.name
+*.component
