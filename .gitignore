@@ -6,3 +6,4 @@ EasyContentManager/war/EasyContentManagerWeb/.settings/org.eclipse.wst.common.pr
 *.container
 EasyContentManager/war/EasyContentManagerWeb/.settings/org.eclipse.wst.jsdt.ui.superType.name
 *.component
+*.classpath
