@@ -9,4 +9,9 @@
 						http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">
 
 	<context:annotation-config />
+	<context:component-scan base-package="org.ecms.web.controller,org.ecms.integration.to" />
+	<context:property-placeholder location="classpath*:setup.properties" />
+	<bean id="dbConfig" class="org.ecms.integration.to.DBConfigTO">
+		<property name="dbUserName" value="${db.UserName}"></property>
+	</bean>
 </beans>
