@@ -10,6 +10,7 @@
 		<title>ECM</title>
 	</head> 
 	<body>
-		Easy Content manager
+		Easy Content manager<br/>
+		${message}
 	</body>
 </html>

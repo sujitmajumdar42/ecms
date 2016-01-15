@@ -10,9 +10,9 @@ public class SetupController {
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String setUp(ModelMap model) {
-		System.out.println("Hello");
+		System.out.println("Hello................");
 		model.addAttribute("message", "Spring 3 MVC Hello World");
-		return "hello";
+		return "home";
 	}
 
 }
